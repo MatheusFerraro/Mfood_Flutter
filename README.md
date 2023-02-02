@@ -1,16 +1,8 @@
-# mfood
+Mfood é um projeto tentando criar as partes de tela do app "ifood" o app não está completo.
+usei de referência o video do BWOLF: https://www.youtube.com/watch?v=XmwVdw6NZdM&ab_channel=Bwolf
 
-A new Flutter project.
+Nesse projeto eu aprendi muito, e esse é meu primeiro repositorio, commit etc.
+Bora evoluir mais, já estou iniciando outros projetos, mão na massa !!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
